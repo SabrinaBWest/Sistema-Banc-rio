@@ -2,7 +2,7 @@
 
 Este é um projeto de um banco digital simples em Java que permite a criação de contas físicas e jurídicas, além de operações de depósito, saque e verificação de saldo.
 
-## Funcionalidades
+### Funcionalidades
 
 - Criar conta física
 - Criar conta jurídica
@@ -11,7 +11,7 @@ Este é um projeto de um banco digital simples em Java que permite a criação d
 - Verificar saldo
 - Sair do sistema
 
-## Estrutura do Projeto
+### Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
 

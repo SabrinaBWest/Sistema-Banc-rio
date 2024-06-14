@@ -1,4 +1,4 @@
-# Banco Digital
+# Projeto Banco Digital
 
 Este é um projeto de um banco digital simples em Java que permite a criação de contas físicas e jurídicas, além de operações de depósito, saque e verificação de saldo.
 
